@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">prot1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alibek Nurgaliyev</string>
+    <string name="nav_header_subtitle">novice cook</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_bar">Cinnamon &amp; Baker</string>
+    <string name="cam_bar">Food recognition</string>
+    <string name="recipe_bar">Recipes</string>
+</resources>
